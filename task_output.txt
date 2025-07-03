@@ -1,0 +1,510 @@
+PERSONALIZED Job Search Analysis Report
+Role: Senior Data Scientist
+Location: New York
+Date: 2025-06-29 21:32:33
+Resume Analyzed: Yes
+==================================================
+
+=== Crew Manager - Search for current job openings for the Senior Data Scientist role in New York 
+        using the Job Search tool. Find 5 relevant positions that would be suitable for the candidate's background.
+        Use this exact input: {"role": "Senior Data Scientist", "location": "New York", "num_results": 5} ===
+=== Crew Manager - Analyze the job openings and create a PERSONALIZED skills assessment:
+            
+            1. Compare the candidate's current skills (from resume) with job requirements
+            2. Identify SPECIFIC skill gaps and strengths
+            3. Categorize skills as: Already Have, Need to Improve, Need to Learn
+            4. Provide targeted recommendations including:
+               - Specific courses/certifications for identified gaps
+               - How to better highlight existing skills
+               - Timeline for skill development based on current level
+               - Which skills to prioritize for maximum impact
+            5. Create a personalized learning roadmap
+            
+            Use the candidate resume content for context: ✅ Resume parsed successfully!
+
+Resume Content:
+Contact K V S Dileep
+satyadileep@gmail.com
+AI Strategist and Startup Leader | Principles and frameworks to
+www.linkedin.com/in/k-v-s-dileep succeed in early-stage startups | AI-First Thinker
+(LinkedIn)
+Bengaluru, Karnataka, India
+kvsdileep.me (Personal)
+Summary
+Top Skills
+Machine Learning 7+ years of leadership experience in edtech and >12+ years of
+LaTeX experience in education.
+Matlab
+I am a T-shaped executive - with specialized skills in program
+Honors-Awards management and 0-1 execution. I have good working knowledge
+B.Sc Gold medal of business strategy, data analytics, growth and all things startups.
+1st prize at Yahoo! HackU Campus (Scroll down to see what I am learning).
+event
+3rd prize at Yahoo! HackU event
+I can zoom out and think strategically as well as zoom in and
+execute with my teammates in the trenches. I haven't been afraid
+Publications
+to get my hands dirty and went beyond my job description - I did
+Estimating Case Base Complexity
+sales pitches, taught learners (data science), and handled learner
+using Fractal dimension, KVS Dileep
+and Sutanu Chakraborti escalations. I become the one the organization needs.
+Learning Data Dependent
+Composite Kernels for Robust Image
+Empathy over sympathy is my management style. I listen more and
+Retrieval - A Genetic Programming
+guide the team to the solution instead of directly telling them. I am
+Approach
+pessimistic in the short term and optimistic in the long term.
+Towards Higher Order Complexity
+Measures for Text Classification,
+KVS Dileep and Sutanu Chakraborti
+A word that guides my philosophy in life and work.
+Complexity guided noise filtering
+in QA Repositories, KVS Dileep,
+Swapnil Hingmire and Sutanu Kokoro | [n] | The intersection of heart, mind, & spirit that's a person’s
+Chakraborti
+essence, soul, or centre. Instead of being treated separately, they
+Eager to be lazy: Towards a
+are one.
+Complexity-guided Textual Case-
+Based Reasoning System, KVS
+Dileep and Sutanu Chakraborti
+Experience
+GrowthSchool
+3 years 4 months
+Head - User Engagement & AI Initiatives
+December 2023 - Present (1 year 7 months)
+Page 1 of 4
+- Mapping customer lifecycle journeys and helping in effective rechurn of
+customers to recover revenue. Executed multiple 0-1 projects to improve
+revenue and customer retention.
+- Executed multiple 0-1 projects to improve revenue and customer retention.
+Head of Programs
+March 2022 - December 2023 (1 year 10 months)
+- Led the team to launch 20+ workshops and 10+ intensive programs to 2x
+revenue year-on-year. Worked cross-functionally with multiple teams and
+helped with data analysis for better lead scoring and improved revenue.
+Relevel by Unacademy
+10 months
+Sr. Manager, Learning Experience
+November 2021 - February 2022 (4 months)
+- Was transferred to a new business unit Courses which was a small unit
+of ~4 people and helped grow it to ~50 people to deliver a stellar learning
+experience. Helped achieve an NPS > 80 in 60 days.
+- Built the Learning Operations unit from scratch - especially in setting up the
+learner experience loops and the way the Teaching Assistants interacted and
+added value to the learners.
+- Set up the processes to execute the testing component of courses smoothly
+and helped scale it from few tests to now parallel tests across cohorts.
+- Understood the operational gaps which needed product intervention and
+fleshed out the key problem statement and requirements.
+- Created Standard Operating Procedures for all key activities of Learning
+Operations to get ready for scale.
+Sr. Manager, Test Design
+May 2021 - November 2021 (7 months)
+- Owned the conception of Test Design and execution for the Tech categories
+- Backend and Frontend for Relevel. Helped to launch the tests ~1.5 months
+with percentage of promoters out of 1000+ learners at 80%.
+- Refined the various evaluation rubrics for tests and built a steady pipeline
+to enable the company to do daily tests from Oct 2021 onwards. Executed
+complex tasks with a very lean team.
+- Understood the test taker pain points and gave inputs to the product team to
+help in picking the right features that will provide delight to the test takers.
+Page 2 of 4
+- Analyzed the previous test takers' performance data across various
+competencies and rounds and helping the product validate crucial decisions
+regarding scoring mechanisms and qualification.
+- Helped in the launch of tests of Data Analytics and Business Analytics and
+helped define the formats of cases studies for both these rounds.
+- Trained ~100+ evaluators across the categories for fair evaluation of the
+candidates.
+GreyAtom
+Head of Programs
+July 2018 - April 2021 (2 years 10 months)
+Mumbai Area, India
+- Involved with the end-to-end lifecycle of our education products - right from
+conception, persona mapping, design, GTM strategy and delivery.
+- Continuously analyzed learner feedback and prepared the user stories for
+learner, mentor as well as admin from the learning point of view for effective
+engagement. Worked closed with the design team and gave feedback on
+design mockups and clarified blockers for the engg team to build out the
+features.
+- Conceptualized, designed and delivered cohort-based courses on Data
+Science, Deep Learning and Frontend Web Development. For learners looking
+for a job change, we had placement ratio ~88%.
+- During the pandemic crisis, I helped evolve a new course delivery model that
+helped us offer programs at a lower cost and keep the revenue flowing. (From
+0 revenue, we were able to grow to 60% of pre-pandemic monthly revenue.)
+- Helped evolve selection, evaluation and competency frameworks for Income
+Share Agreement programs (ISA) programs. This helped in choosing the right
+learners and handpick them for jobs. This enabled us to go into Tier 3 cities
+and enable freshers to get ~6-7 LPA packages.
+- Designed and deployed self-paced courses that are consumed by around
+50,000+ learners. Helped acquire learners and deliver our programs
+internationally (in Canada).
+- Helped setup the basic analytics dashboard for tracking learner outcomes.
+- Evolved the product roadmap for an inhouse LMS - Glabs that has ~50k
+users which hosts the curriculum and content. Worked closely with the tech
+team to prioritize features from the learner point of view along with furnishing
+the detailed requirements.
+Indian Institute of Technology, Madras
+PhD Research Scholar
+Page 3 of 4
+July 2010 - June 2018 (8 years)
+(Currently paused. Not graduated yet)
+I was working towards a PhD in Natural Language Processing and Memory
+based reasoning in Artificial Intelligence. The main focus of the research is
+trying to answer the question - Can we improve the efficiency of the task if we
+are complexity aware instead of complexity agnostic? Have published papers
+in International Conference in Case Based Reasoning (ICCBR) and FLAIRS
+based on the work.
+IBM India Research Labs
+Research Intern
+May 2012 - August 2012 (4 months)
+Bangalore, India
+Interned with the Human Language Technologies Group by working on topic
+modelling over speech-to-text transcripts.
+Education
+Indian Institute of Technology, Madras
+Doctor of Philosophy (Ph.D.) (on pause), Computer Science · (2010 - 2018)
+Sri Sathya Sai Institute of Higher Learning
+Master of Technology (M.Tech.), Computer Science · (2008 - 2010)
+Sri Sathya Sai Institute of Higher Learning
+Master of Science (MSc), Mathematics and Computer Science · (2006 - 2008)
+Sri Sathya Sai Institute of Higher Learning
+Bachelor of Science (BSc), Mathematics · (2003 - 2006)
+Page 4 of 4
+ ===
+=== Crew Manager - Create a PERSONALIZED interview preparation strategy:
+            
+            1. Generate role-specific questions tailored to the candidate's background
+            2. Create STAR method examples using the candidate's actual experience
+            3. Identify potential interview challenges based on resume gaps or career changes
+            4. Provide specific talking points to highlight candidate's unique strengths
+            5. Address potential concerns employers might have
+            6. Create customized salary negotiation strategy based on experience level
+            7. Develop elevator pitch based on candidate's background
+            
+            Base recommendations on candidate resume: ✅ Resume parsed successfully!
+
+Resume Content:
+Contact K V S Dileep
+satyadileep@gmail.com
+AI Strategist and Startup Leader | Principles and frameworks to
+www.linkedin.com/in/k-v-s-dileep succeed in early-stage startups | AI-First Thinker
+(LinkedIn)
+Bengaluru, Karnataka, India
+kvsdileep.me (Personal)
+Summary
+Top Skills
+Machine Learning 7+ years of leadership experience in edtech and >12+ years of
+LaTeX experience in education.
+Matlab
+I am a T-shaped executive - with specialized skills in program
+Honors-Awards management and 0-1 execution. I have good working knowledge
+B.Sc Gold medal of business strategy, data analytics, growth and all things startups.
+1st prize at Yahoo! HackU Campus (Scroll down to see what I am learning).
+event
+3rd prize at Yahoo! HackU event
+I can zoom out and think strategically as well as zoom in and
+execute with my teammates in the trenches. I haven't been afraid
+Publications
+to get my hands dirty and went beyond my job description - I did
+Estimating Case Base Complexity
+sales pitches, taught learners (data science), and handled learner
+using Fractal dimension, KVS Dileep
+and Sutanu Chakraborti escalations. I become the one the organization needs.
+Learning Data Dependent
+Composite Kernels for Robust Image
+Empathy over sympathy is my management style. I listen more and
+Retrieval - A Genetic Programming
+guide the team to the solution instead of directly telling them. I am
+Approach
+pessimistic in the short term and optimistic in the long term.
+Towards Higher Order Complexity
+Measures for Text Classification,
+KVS Dileep and Sutanu Chakraborti
+A word that guides my philosophy in life and work.
+Complexity guided noise filtering
+in QA Repositories, KVS Dileep,
+Swapnil Hingmire and Sutanu Kokoro | [n] | The intersection of heart, mind, & spirit that's a person’s
+Chakraborti
+essence, soul, or centre. Instead of being treated separately, they
+Eager to be lazy: Towards a
+are one.
+Complexity-guided Textual Case-
+Based Reasoning System, KVS
+Dileep and Sutanu Chakraborti
+Experience
+GrowthSchool
+3 years 4 months
+Head - User Engagement & AI Initiatives
+December 2023 - Present (1 year 7 months)
+Page 1 of 4
+- Mapping customer lifecycle journeys and helping in effective rechurn of
+customers to recover revenue. Executed multiple 0-1 projects to improve
+revenue and customer retention.
+- Executed multiple 0-1 projects to improve revenue and customer retention.
+Head of Programs
+March 2022 - December 2023 (1 year 10 months)
+- Led the team to launch 20+ workshops and 10+ intensive programs to 2x
+revenue year-on-year. Worked cross-functionally with multiple teams and
+helped with data analysis for better lead scoring and improved revenue.
+Relevel by Unacademy
+10 months
+Sr. Manager, Learning Experience
+November 2021 - February 2022 (4 months)
+- Was transferred to a new business unit Courses which was a small unit
+of ~4 people and helped grow it to ~50 people to deliver a stellar learning
+experience. Helped achieve an NPS > 80 in 60 days.
+- Built the Learning Operations unit from scratch - especially in setting up the
+learner experience loops and the way the Teaching Assistants interacted and
+added value to the learners.
+- Set up the processes to execute the testing component of courses smoothly
+and helped scale it from few tests to now parallel tests across cohorts.
+- Understood the operational gaps which needed product intervention and
+fleshed out the key problem statement and requirements.
+- Created Standard Operating Procedures for all key activities of Learning
+Operations to get ready for scale.
+Sr. Manager, Test Design
+May 2021 - November 2021 (7 months)
+- Owned the conception of Test Design and execution for the Tech categories
+- Backend and Frontend for Relevel. Helped to launch the tests ~1.5 months
+with percentage of promoters out of 1000+ learners at 80%.
+- Refined the various evaluation rubrics for tests and built a steady pipeline
+to enable the company to do daily tests from Oct 2021 onwards. Executed
+complex tasks with a very lean team.
+- Understood the test taker pain points and gave inputs to the product team to
+help in picking the right features that will provide delight to the test takers.
+Page 2 of 4
+- Analyzed the previous test takers' performance data across various
+competencies and rounds and helping the product validate crucial decisions
+regarding scoring mechanisms and qualification.
+- Helped in the launch of tests of Data Analytics and Business Analytics and
+helped define the formats of cases studies for both these rounds.
+- Trained ~100+ evaluators across the categories for fair evaluation of the
+candidates.
+GreyAtom
+Head of Programs
+July 2018 - April 2021 (2 years 10 months)
+Mumbai Area, India
+- Involved with the end-to-end lifecycle of our education products - right from
+conception, persona mapping, design, GTM strategy and delivery.
+- Continuously analyzed learner feedback and prepared the user stories for
+learner, mentor as well as admin from the learning point of view for effective
+engagement. Worked closed with the design team and gave feedback on
+design mockups and clarified blockers for the engg team to build out the
+features.
+- Conceptualized, designed and delivered cohort-based courses on Data
+Science, Deep Learning and Frontend Web Development. For learners looking
+for a job change, we had placement ratio ~88%.
+- During the pandemic crisis, I helped evolve a new course delivery model that
+helped us offer programs at a lower cost and keep the revenue flowing. (From
+0 revenue, we were able to grow to 60% of pre-pandemic monthly revenue.)
+- Helped evolve selection, evaluation and competency frameworks for Income
+Share Agreement programs (ISA) programs. This helped in choosing the right
+learners and handpick them for jobs. This enabled us to go into Tier 3 cities
+and enable freshers to get ~6-7 LPA packages.
+- Designed and deployed self-paced courses that are consumed by around
+50,000+ learners. Helped acquire learners and deliver our programs
+internationally (in Canada).
+- Helped setup the basic analytics dashboard for tracking learner outcomes.
+- Evolved the product roadmap for an inhouse LMS - Glabs that has ~50k
+users which hosts the curriculum and content. Worked closely with the tech
+team to prioritize features from the learner point of view along with furnishing
+the detailed requirements.
+Indian Institute of Technology, Madras
+PhD Research Scholar
+Page 3 of 4
+July 2010 - June 2018 (8 years)
+(Currently paused. Not graduated yet)
+I was working towards a PhD in Natural Language Processing and Memory
+based reasoning in Artificial Intelligence. The main focus of the research is
+trying to answer the question - Can we improve the efficiency of the task if we
+are complexity aware instead of complexity agnostic? Have published papers
+in International Conference in Case Based Reasoning (ICCBR) and FLAIRS
+based on the work.
+IBM India Research Labs
+Research Intern
+May 2012 - August 2012 (4 months)
+Bangalore, India
+Interned with the Human Language Technologies Group by working on topic
+modelling over speech-to-text transcripts.
+Education
+Indian Institute of Technology, Madras
+Doctor of Philosophy (Ph.D.) (on pause), Computer Science · (2010 - 2018)
+Sri Sathya Sai Institute of Higher Learning
+Master of Technology (M.Tech.), Computer Science · (2008 - 2010)
+Sri Sathya Sai Institute of Higher Learning
+Master of Science (MSc), Mathematics and Computer Science · (2006 - 2008)
+Sri Sathya Sai Institute of Higher Learning
+Bachelor of Science (BSc), Mathematics · (2003 - 2006)
+Page 4 of 4
+ ===
+=== Crew Manager - Develop a PERSONALIZED career strategy plan:
+            
+            1. Analyze current resume and suggest specific improvements for target roles
+            2. Create LinkedIn optimization strategy based on existing profile content
+            3. Identify networking opportunities relevant to candidate's industry/background
+            4. Suggest specific portfolio projects based on current skills and target roles
+            5. Create personal branding strategy that highlights unique value proposition
+            6. Develop application strategy tailored to candidate's experience level
+            7. Provide specific action items with timeline for career advancement
+            
+            Base all recommendations on candidate background: ✅ Resume parsed successfully!
+
+Resume Content:
+Contact K V S Dileep
+satyadileep@gmail.com
+AI Strategist and Startup Leader | Principles and frameworks to
+www.linkedin.com/in/k-v-s-dileep succeed in early-stage startups | AI-First Thinker
+(LinkedIn)
+Bengaluru, Karnataka, India
+kvsdileep.me (Personal)
+Summary
+Top Skills
+Machine Learning 7+ years of leadership experience in edtech and >12+ years of
+LaTeX experience in education.
+Matlab
+I am a T-shaped executive - with specialized skills in program
+Honors-Awards management and 0-1 execution. I have good working knowledge
+B.Sc Gold medal of business strategy, data analytics, growth and all things startups.
+1st prize at Yahoo! HackU Campus (Scroll down to see what I am learning).
+event
+3rd prize at Yahoo! HackU event
+I can zoom out and think strategically as well as zoom in and
+execute with my teammates in the trenches. I haven't been afraid
+Publications
+to get my hands dirty and went beyond my job description - I did
+Estimating Case Base Complexity
+sales pitches, taught learners (data science), and handled learner
+using Fractal dimension, KVS Dileep
+and Sutanu Chakraborti escalations. I become the one the organization needs.
+Learning Data Dependent
+Composite Kernels for Robust Image
+Empathy over sympathy is my management style. I listen more and
+Retrieval - A Genetic Programming
+guide the team to the solution instead of directly telling them. I am
+Approach
+pessimistic in the short term and optimistic in the long term.
+Towards Higher Order Complexity
+Measures for Text Classification,
+KVS Dileep and Sutanu Chakraborti
+A word that guides my philosophy in life and work.
+Complexity guided noise filtering
+in QA Repositories, KVS Dileep,
+Swapnil Hingmire and Sutanu Kokoro | [n] | The intersection of heart, mind, & spirit that's a person’s
+Chakraborti
+essence, soul, or centre. Instead of being treated separately, they
+Eager to be lazy: Towards a
+are one.
+Complexity-guided Textual Case-
+Based Reasoning System, KVS
+Dileep and Sutanu Chakraborti
+Experience
+GrowthSchool
+3 years 4 months
+Head - User Engagement & AI Initiatives
+December 2023 - Present (1 year 7 months)
+Page 1 of 4
+- Mapping customer lifecycle journeys and helping in effective rechurn of
+customers to recover revenue. Executed multiple 0-1 projects to improve
+revenue and customer retention.
+- Executed multiple 0-1 projects to improve revenue and customer retention.
+Head of Programs
+March 2022 - December 2023 (1 year 10 months)
+- Led the team to launch 20+ workshops and 10+ intensive programs to 2x
+revenue year-on-year. Worked cross-functionally with multiple teams and
+helped with data analysis for better lead scoring and improved revenue.
+Relevel by Unacademy
+10 months
+Sr. Manager, Learning Experience
+November 2021 - February 2022 (4 months)
+- Was transferred to a new business unit Courses which was a small unit
+of ~4 people and helped grow it to ~50 people to deliver a stellar learning
+experience. Helped achieve an NPS > 80 in 60 days.
+- Built the Learning Operations unit from scratch - especially in setting up the
+learner experience loops and the way the Teaching Assistants interacted and
+added value to the learners.
+- Set up the processes to execute the testing component of courses smoothly
+and helped scale it from few tests to now parallel tests across cohorts.
+- Understood the operational gaps which needed product intervention and
+fleshed out the key problem statement and requirements.
+- Created Standard Operating Procedures for all key activities of Learning
+Operations to get ready for scale.
+Sr. Manager, Test Design
+May 2021 - November 2021 (7 months)
+- Owned the conception of Test Design and execution for the Tech categories
+- Backend and Frontend for Relevel. Helped to launch the tests ~1.5 months
+with percentage of promoters out of 1000+ learners at 80%.
+- Refined the various evaluation rubrics for tests and built a steady pipeline
+to enable the company to do daily tests from Oct 2021 onwards. Executed
+complex tasks with a very lean team.
+- Understood the test taker pain points and gave inputs to the product team to
+help in picking the right features that will provide delight to the test takers.
+Page 2 of 4
+- Analyzed the previous test takers' performance data across various
+competencies and rounds and helping the product validate crucial decisions
+regarding scoring mechanisms and qualification.
+- Helped in the launch of tests of Data Analytics and Business Analytics and
+helped define the formats of cases studies for both these rounds.
+- Trained ~100+ evaluators across the categories for fair evaluation of the
+candidates.
+GreyAtom
+Head of Programs
+July 2018 - April 2021 (2 years 10 months)
+Mumbai Area, India
+- Involved with the end-to-end lifecycle of our education products - right from
+conception, persona mapping, design, GTM strategy and delivery.
+- Continuously analyzed learner feedback and prepared the user stories for
+learner, mentor as well as admin from the learning point of view for effective
+engagement. Worked closed with the design team and gave feedback on
+design mockups and clarified blockers for the engg team to build out the
+features.
+- Conceptualized, designed and delivered cohort-based courses on Data
+Science, Deep Learning and Frontend Web Development. For learners looking
+for a job change, we had placement ratio ~88%.
+- During the pandemic crisis, I helped evolve a new course delivery model that
+helped us offer programs at a lower cost and keep the revenue flowing. (From
+0 revenue, we were able to grow to 60% of pre-pandemic monthly revenue.)
+- Helped evolve selection, evaluation and competency frameworks for Income
+Share Agreement programs (ISA) programs. This helped in choosing the right
+learners and handpick them for jobs. This enabled us to go into Tier 3 cities
+and enable freshers to get ~6-7 LPA packages.
+- Designed and deployed self-paced courses that are consumed by around
+50,000+ learners. Helped acquire learners and deliver our programs
+internationally (in Canada).
+- Helped setup the basic analytics dashboard for tracking learner outcomes.
+- Evolved the product roadmap for an inhouse LMS - Glabs that has ~50k
+users which hosts the curriculum and content. Worked closely with the tech
+team to prioritize features from the learner point of view along with furnishing
+the detailed requirements.
+Indian Institute of Technology, Madras
+PhD Research Scholar
+Page 3 of 4
+July 2010 - June 2018 (8 years)
+(Currently paused. Not graduated yet)
+I was working towards a PhD in Natural Language Processing and Memory
+based reasoning in Artificial Intelligence. The main focus of the research is
+trying to answer the question - Can we improve the efficiency of the task if we
+are complexity aware instead of complexity agnostic? Have published papers
+in International Conference in Case Based Reasoning (ICCBR) and FLAIRS
+based on the work.
+IBM India Research Labs
+Research Intern
+May 2012 - August 2012 (4 months)
+Bangalore, India
+Interned with the Human Language Technologies Group by working on topic
+modelling over speech-to-text transcripts.
+Education
+Indian Institute of Technology, Madras
+Doctor of Philosophy (Ph.D.) (on pause), Computer Science · (2010 - 2018)
+Sri Sathya Sai Institute of Higher Learning
+Master of Technology (M.Tech.), Computer Science · (2008 - 2010)
+Sri Sathya Sai Institute of Higher Learning
+Master of Science (MSc), Mathematics and Computer Science · (2006 - 2008)
+Sri Sathya Sai Institute of Higher Learning
+Bachelor of Science (BSc), Mathematics · (2003 - 2006)
+Page 4 of 4
+ ===
