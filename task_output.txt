@@ -1,7 +1,7 @@
 PERSONALIZED Job Search Analysis Report
 Role: Senior Data Scientist
 Location: New York
-Date: 2025-06-29 21:32:33
+Date: 2025-07-05 13:06:33
 Resume Analyzed: Yes
 ==================================================
 
